@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu **portfólio pessoal** 🚀
 Este projeto foi desenvolvido para apresentar quem eu sou, minhas experiências, projetos e as tecnologias que utilizo como desenvolvedor.
 
 🔗 **Acesse o portfólio online:**  
-👉 https://SEU-LINK-AQUI
+👉 https://kauanrzin.github.io/KauanRZinPortfolio/
 
 ---
 
