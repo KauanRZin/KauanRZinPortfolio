@@ -560,7 +560,7 @@ button:hover {
   color: white;
 }
 .timeline.nova-roma-timeline .timeline-content::after {
-  background-image: url('/img/nova.jpg'); 
+  background-image: url('../img/nova.jpg'); 
   background-size: cover; /* Ajuste para a logo não ficar gigante */
   border-left: 1px solid rgba(255,255,255,0.1);
 }
@@ -574,7 +574,7 @@ button:hover {
 .timeline.upe-timeline .timeline-content p { color: #fce7f3; }
 
 .timeline.upe-timeline .timeline-content::after {
-  background-image: url('/img/Upe.png');
+  background-image: url('../img/Upe.png');
   background-color: white; /* Fundo branco para a logo da UPE */
   background-size: 120%; /* Ajuste do tamanho da logo */
 }
@@ -592,7 +592,7 @@ button:hover {
 }
 
 .timeline.secti-timeline .timeline-content::after {
-  background-image: url('/img/bandeira.jpeg');
+  background-image: url('../img/bandeira.jpeg');
   background-color: #002776; /* A parte da imagem fica no AZUL */
   /* Ajuste da imagem da bandeira dentro da área azul */
   background-size: cover; 
