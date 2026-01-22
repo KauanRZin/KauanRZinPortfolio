@@ -472,7 +472,7 @@ button:hover {
   content: '';
   position: absolute;
   left: -15px;
-  top: 50%; /* Centraliza a bolinha verticalmente em relação ao card */
+  top: 13%; /* Centraliza a bolinha verticalmente em relação ao card */
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
