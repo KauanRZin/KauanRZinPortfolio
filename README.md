@@ -58,3 +58,32 @@ O site conta com uma seção de **timeline**, destacando:
  ┃ ┗ script.js
  ┣ index.html
  ┗ README.md
+```
+
+## 📱 Responsividade
+
+O site é totalmente responsivo, adaptando-se a:
+
+- Desktop
+- Tablets
+- Smartphones
+
+Utilizando media queries para garantir uma boa experiência em qualquer dispositivo.
+
+## 📬 Contato
+
+Se quiser entrar em contato comigo:
+
+- 💼 LinkedIn: https://www.linkedin.com/in/kauanzin/
+
+- 📧 Email: kauan.kr1001@gmail.com
+
+## 🚀 Status do Projeto
+
+✅ Em desenvolvimento contínuo
+🔄 Sempre recebendo melhorias e ajustes
+
+## 📄 Licença
+
+Este projeto é de uso pessoal.
+Sinta-se à vontade para se inspirar, mas não copie integralmente sem autorização.
